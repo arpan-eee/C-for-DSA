@@ -3,14 +3,14 @@ using namespace std;
 class Student
 {
     public:
-        char name[100];
-        int roll;
+        char name[100];s 
+        int roll;s
         int cls;
-        char section;
+        char section;s
 
         Student(int r,int s,int c,char* n)
         {
-            roll=r;
+            roll=r;s
             section=s;
             cls=c;
             strcpy(name,n);
