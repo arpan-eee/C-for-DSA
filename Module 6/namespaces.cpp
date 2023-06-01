@@ -8,7 +8,7 @@ namespace Rakib
         cout<<"Rakib namespaces"<<endl;
     }
 }
-namespace Sakib
+namespace Sakib 
 {
     int age=30;
     void hello()

@@ -5,14 +5,14 @@ class Student
     public:
         char name[100];
         int roll;
-        int cls;r
+        int cls;
         char section;
 
         Student(int r,int s,int c,char* n)
         {
             roll=r;
             section=s;
-            cls=c;r
+            cls=c;
             strcpy(name,n);
         }
 };
