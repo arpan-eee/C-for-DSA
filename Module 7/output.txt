@@ -1,0 +1,3 @@
+arka 3 4
+arnab 2 5
+arpan 1 6

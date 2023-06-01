@@ -9,7 +9,7 @@ class Student
 };
 bool cmp(Student a,Student b)
 {
-    if(a.marks > b.marks) return true;
+    if(a.marks < b.marks) return true;
     else return false;
 }
 int main()
