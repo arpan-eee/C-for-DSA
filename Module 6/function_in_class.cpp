@@ -28,5 +28,6 @@ int main()
     Person rakib("Rakib Ahsan",24,95,85);
     cout<<rakib.name<<endl;
     cout<<rakib.total_marks()<<endl;
+    // cout<<rakib.hello()<<endl;
     return 0;
 }
